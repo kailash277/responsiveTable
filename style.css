@@ -1,0 +1,8 @@
+
+table.vtable_show thead{display: none;}
+table.vtable_show tr td:last-child {border-bottom: solid 2px #aaaaaa;}
+table.vtable_show>tbody>tr>td{display: block;padding-left: 36%;overflow: hidden;
+                        position: relative;border-bottom: dotted 1px #aaa}
+table.vtable_show>tbody>tr>td .vt-caption{position: absolute;width: 34%;padding: 3px;
+                                          color: #666666;font-size: 0.9em;top: 0px;left: 0px;}
+
